@@ -4,3 +4,4 @@ Wish me luck.
 Learning about branches and pull requests.
 day 4
 day 5
+day 6
